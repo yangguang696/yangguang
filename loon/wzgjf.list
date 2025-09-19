@@ -1,12 +1,16 @@
+DOMAIN-SUFFIX,mtlgg.mt.com,国际游戏
+DOMAIN-SUFFIX,overseauspider.yuanshen.com,国际游戏
+DOMAIN-SUFFIX,gameguardian.net,国际游戏
+DOMAIN-SUFFIX,proximabeta.com,国际游戏
+DOMAIN-SUFFIX,hok.com,国际游戏
+DOMAIN-SUFFIX,levelinfinite.com,国际游戏
 
-DOMAIN-SUFFIX,mtlgg.mt.com,王者国际服
-DOMAIN-SUFFIX,overseauspider.yuanshen.com,王者国际服
-DOMAIN-SUFFIX,gameguardian.net,王者国际服
-DOMAIN-SUFFIX,proximabeta.com,王者国际服
-
-IP-CIDR,8.219.237.0/24,王者国际服,no-resolve
-IP-CIDR,8.219.250.0/23,王者国际服,no-resolve
-IP-CIDR,47.243.84.0/23,王者国际服,no-resolve
-IP-CIDR,47.243.120.0/24,王者国际服,no-resolve
-IP-CIDR,129.226.0.0/16,王者国际服,no-resolve
-IP-CIDR,150.109.0.0/16,王者国际服,no-resolve
+# 2. 基于IP的规则（核心，确保所有游戏流量走海外线路）
+IP-CIDR,8.219.237.0/24,国际游戏,no-resolve
+IP-CIDR,8.219.250.0/23,国际游戏,no-resolve
+IP-CIDR,47.243.84.0/23,国际游戏,no-resolve
+IP-CIDR,47.243.120.0/24,国际游戏,no-resolve
+IP-CIDR,129.226.0.0/16,国际游戏,no-resolve
+IP-CIDR,150.109.0.0/16,国际游戏,no-resolve
+IP-CIDR,119.28.0.0/16,国际游戏,no-resolve
+IP-CIDR,129.226.0.0/16,国际游戏,no-resolve
