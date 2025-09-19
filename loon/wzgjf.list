@@ -1,11 +1,9 @@
-rules:
-  # 1. 基于域名的规则（推荐优先匹配）
+
   - DOMAIN-SUFFIX,mtlgg.mt.com,DIRECT
   - DOMAIN-SUFFIX,overseauspider.yuanshen.com,DIRECT
   - DOMAIN-SUFFIX,gameguardian.net,DIRECT
   - DOMAIN-SUFFIX,proximabeta.com,DIRECT # 国际服相关域名
 
-  # 2. 基于IP的规则（覆盖直接IP连接，至关重要！）
   - IP-CIDR,8.219.237.0/24,王者国际服,no-resolve
   - IP-CIDR,8.219.250.0/23,王者国际服,no-resolve
   - IP-CIDR,47.243.84.0/23,王者国际服,no-resolve
