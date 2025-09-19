@@ -1,12 +1,12 @@
 
-  - DOMAIN-SUFFIX,mtlgg.mt.com,DIRECT
-  - DOMAIN-SUFFIX,overseauspider.yuanshen.com,DIRECT
-  - DOMAIN-SUFFIX,gameguardian.net,DIRECT
-  - DOMAIN-SUFFIX,proximabeta.com,DIRECT # 国际服相关域名
+DOMAIN-SUFFIX,mtlgg.mt.com,王者国际服
+DOMAIN-SUFFIX,overseauspider.yuanshen.com,王者国际服
+DOMAIN-SUFFIX,gameguardian.net,王者国际服
+DOMAIN-SUFFIX,proximabeta.com,王者国际服
 
-  - IP-CIDR,8.219.237.0/24,王者国际服,no-resolve
-  - IP-CIDR,8.219.250.0/23,王者国际服,no-resolve
-  - IP-CIDR,47.243.84.0/23,王者国际服,no-resolve
-  - IP-CIDR,47.243.120.0/24,王者国际服,no-resolve
-  - IP-CIDR,129.226.0.0/16,王者国际服,no-resolve
-  - IP-CIDR,150.109.0.0/16,王者国际服,no-resolve
+IP-CIDR,8.219.237.0/24,王者国际服,no-resolve
+IP-CIDR,8.219.250.0/23,王者国际服,no-resolve
+IP-CIDR,47.243.84.0/23,王者国际服,no-resolve
+IP-CIDR,47.243.120.0/24,王者国际服,no-resolve
+IP-CIDR,129.226.0.0/16,王者国际服,no-resolve
+IP-CIDR,150.109.0.0/16,王者国际服,no-resolve
