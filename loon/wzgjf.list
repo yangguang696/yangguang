@@ -3,4 +3,4 @@ DOMAIN-SUFFIX,graph.facebook.com
 
 
 
-IP-CIDRIP-CIDR,4.0.0.0:5008/no-resolve
+IP-CIDRIP-CIDR,4.0.0.0:5008,no-resolve
