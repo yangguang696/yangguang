@@ -1,21 +1,5 @@
-# 王者荣耀国际服 - 域名规则
-DOMAIN-SUFFIX,proximabeta.com,国际服
-DOMAIN-SUFFIX,mtlgg.mt.com,国际服
-DOMAIN-SUFFIX,gameguardian.net,国际服
-DOMAIN-SUFFIX,overseauspider.yuanshen.com,国际服
-DOMAIN-SUFFIX,levelinfinite.com,国际服
-DOMAIN-SUFFIX,hok.com,国际服
-DOMAIN-KEYWORD,cloudfront,国际服
-DOMAIN-KEYWORD,akamaized,国际服
-DONAIN-KEYWORD,gator.volces.com
-DONAIN-SUFFIX,graph.facebook.com
+DOMAIN-KEYWORD,graph.facebook.com
 
-# 王者荣耀国际服 - IP段规则（至关重要）
-IP-CIDR,8.219.237.0/24,国际服,no-resolve
-IP-CIDR,8.219.250.0/23,国际服,no-resolve
-IP-CIDR,47.243.84.0/23,国际服,no-resolve
-IP-CIDR,47.243.120.0/24,国际服,no-resolve
-IP-CIDR,129.226.0.0/16,国际服,no-resolve
-IP-CIDR,150.109.0.0/16,国际服,no-resolve
-IP-CIDR,119.28.0.0/16,国际服,no-resolve
-IP-CIDR,5.0.0.0:5008
+
+
+
