@@ -1,37 +1,8 @@
-
-DOMAIN,overseauspider.yuanshen.com, HK
-DOMAIN,api-os-takumi.mihoyo.com, HK
-DOMAIN,sdk-os-static.mihoyo.com, HK
-DOMAIN,log-upload-os.mihoyo.com, HK
-DOMAIN,dispatchosglobal.yuanshen.com, HK
-DOMAIN-KEYWORD,akadns.net, HK
-DOMAIN-SUFFIX,hoyoverse.com, HK
-DOMAIN-SUFFIX,honorofkings.com, HK
-DOMAIN-SUFFIX,hotchatgame.com, HK
-
-
-IP-CIDR,8.219.250.0/24, HK
-IP-CIDR,8.219.251.0/24, HK
-IP-CIDR,8.222.128.0/24, HK
-IP-CIDR,8.222.129.0/24, HK
-IP-CIDR,43.155.67.0/24, HK
-IP-CIDR,101.32.200.0/24, HK
-IP-CIDR,129.226.0.0/16, HK
-# GEOIP,HK,DIRECT
-FINAL, DEFAULT
-
-[Host]
-
-[URL Rewrite]
-
-[Script]
-
-[Proxy]
-
-[Remote Proxy]
-
-[Remote Rule]
-
-[Remote Script]
-
-[Plugin]
+DOMAIN-SUFFIX, hok-dr.intlgame.com
+DOMAIN-SUFFIXhok.intigame.com
+DOMAIN-SUFFIXintigame.com
+DOMAIN-SUFFIX, sgameglobal.com
+DOMAIN-SUFFIX, appsflyersdk.com
+DOMAIN-KEYWORD,sgameglobal.com
+IP-CIDR, 183.192.65.101/16, no-resolve
+1P-CIDR, 43.132.55.55/16, no-resolve
