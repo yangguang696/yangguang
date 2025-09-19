@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,hok.com,国际服
 DOMAIN-KEYWORD,cloudfront,国际服
 DOMAIN-KEYWORD,akamaized,国际服
 DONAIN-KEYWORD,gator.volces.com
+DONAIN-KEYWORD,graph.facebook.com
 
 # 王者荣耀国际服 - IP段规则（至关重要）
 IP-CIDR,8.219.237.0/24,国际服,no-resolve
