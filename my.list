@@ -1,20 +1,37 @@
-[Rule]
-DOMAIN-SUFFIX,amazonaws.com,PROXY //
-DOMAIN-SUFFIX,aov-game.com,PROXY // 
-DOMAIN-SUFFIX,aov.garena.com,PROTY // 
-DOMAIN-SUFFIX,garenanow.com,PROXY // 
-DOMAIN-SUFFIX,proximabeta.com,PROXY // 
-USER-AGENT,Arena%20of%20Valor*,PROXY //
-IP-CIDR,8.219.235.0/24,PROXY,no-resolve // 
-IP-CIDR,47.246.21.0/24,PROXY,no-resolve //
-IP-CIDR,49.51.42.0/24,PROXY,no-resolve // 腾讯云海外
-IP-CIDR,52.76.76.0/24,PROXY,no-resolve // 亚马逊AWS新加坡
-IP-CIDR,54.169.76.0/24,PROXY,no-resolve // 亚马逊AWS新加坡
-IP-CIDR,54.255.171.0/24,PROXY,no-resolve // 亚马逊AWS新加坡
-IP-CIDR,64.233.160.0/19,PROXY,no-resolve // Google云
-IP-CIDR,129.226.0.0/16,PROXY,no-resolve // 腾讯云香港
-IP-CIDR,139.159.0.0/16,PROXY,no-resolve // 腾讯云海外
-IP-CIDR,162.14.0.0/16,PROXY,no-resolve //
-GEOIP,CN,DIRECT //
-GEOIP,SG,PROXY // 
-GEOIP,JP,PROXY // 
+
+DOMAIN,overseauspider.yuanshen.com, HK
+DOMAIN,api-os-takumi.mihoyo.com, HK
+DOMAIN,sdk-os-static.mihoyo.com, HK
+DOMAIN,log-upload-os.mihoyo.com, HK
+DOMAIN,dispatchosglobal.yuanshen.com, HK
+DOMAIN-KEYWORD,akadns.net, HK
+DOMAIN-SUFFIX,hoyoverse.com, HK
+DOMAIN-SUFFIX,honorofkings.com, HK
+DOMAIN-SUFFIX,hotchatgame.com, HK
+
+
+IP-CIDR,8.219.250.0/24, HK
+IP-CIDR,8.219.251.0/24, HK
+IP-CIDR,8.222.128.0/24, HK
+IP-CIDR,8.222.129.0/24, HK
+IP-CIDR,43.155.67.0/24, HK
+IP-CIDR,101.32.200.0/24, HK
+IP-CIDR,129.226.0.0/16, HK
+# GEOIP,HK,DIRECT
+FINAL, DEFAULT
+
+[Host]
+
+[URL Rewrite]
+
+[Script]
+
+[Proxy]
+
+[Remote Proxy]
+
+[Remote Rule]
+
+[Remote Script]
+
+[Plugin]
