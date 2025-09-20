@@ -1,7 +1,16 @@
-DOMAIN-SUFFIX,d5j.com,游戏代理
-DOMAIN-SUFFIX,proximabeta.com,游戏代理
-DOMAIN-SUFFIX,levelinfinite.com,游戏代理
-DOMAIN-SUFFIX,honorofkings.com,游戏代理
+DOMAIN-SUFFIX,fcmtoken.googleapis.com
+DOMAIN-SUFFIX,oalstv-inapps.appsflyersdk.com
+DOMAIN-SUFFIXfcmtoken.googleapis.com
+DOMAIN-SUFFIX,oalstv-skadsdkless.appsflyersdk.com
+DOMAIN-SUFFIX,dl.listdl.com
+DOMAIN-SUFFIX,oalstv-launches.appsflyersdk.com
+DOMAIN-SUFFIX,ssl.msdk.qq.com
+DOMAIN-SUFFIX,lbsserver.sgameglobal.com
+DOMAIN-SUFFIX,dlied5.qq.com
+DOMAIN-SUFFIX,cdn.wetest.net
+DOMAIN-SUFFIX,ios.crashsight.wetest.net
+DOMAIN-SUFFIX,hok-gcloudctrl.iegcom.com
+DOMAIN-SUFFIX,cgi.connect.qq.com
 
 # 游戏服务器IP段
 IP-CIDR,154.85.0.0/16,王者荣耀国际服,no-resolve
