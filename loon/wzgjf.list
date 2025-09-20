@@ -1,6 +1,29 @@
-DOMAIN-SUFFIX,graph.facebook.com
 
+DOMAIN-SUFFIX,d5j.com,王者荣耀国际服
+DOMAIN-SUFFIX,proximabeta.com,王者荣耀国际服
+DOMAIN-SUFFIX,levelinfinite.com,王者荣耀国际服
+DOMAIN,honorofkings.com,王者荣耀国际服
+DOMAIN,www.honorofkings.com,王者荣耀国际服
+DOMAIN,api.honorofkings.com,王者荣耀国际服
+DOMAIN,login.honorofkings.com,王者荣耀国际服
+DOMAIN,graph.honorofkings.com,王者荣耀国际服
 
+# 游戏服务器IP段
+IP-CIDR,154.85.0.0/16,王者荣耀国际服,no-resolve
+IP-CIDR,154.86.0.0/16,王者荣耀国际服,no-resolve
+IP-CIDR,154.88.0.0/16,王者荣耀国际服,no-resolve
 
+# 游戏登录和账户相关
+DOMAIN-KEYWORD,montreal,王者荣耀国际服
+DOMAIN-KEYWORD,proxima,王者荣耀国际服
+DOMAIN-KEYWORD,levelinfinite,王者荣耀国际服
 
-IP-CIDR,4.0.0.0,no-resolve
+# 游戏下载和更新资源 - 走美国节点
+DOMAIN-KEYWORD,akamai,游戏下载加速
+DOMAIN-KEYWORD,akamaized,游戏下载加速
+DOMAIN-KEYWORD,cloudfront,游戏下载加速
+DOMAIN-KEYWORD,cdn,游戏下载加速
+DOMAIN-KEYWORD,download,游戏下载加速
+DOMAIN-KEYWORD,patcher,游戏下载加速
+DOMAIN-KEYWORD,update,游戏下载加速
+DOMAIN-KEYWORD,content,游戏下载加速
