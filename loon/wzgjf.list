@@ -1,12 +1,7 @@
-GEOIP,CN,no-resolve
-DOMAIN-SUFFIX,d5j.com,王者荣耀国际服
-DOMAIN-SUFFIX,proximabeta.com,王者荣耀国际服
-DOMAIN-SUFFIX,levelinfinite.com,王者荣耀国际服
-DOMAIN,honorofkings.com,王者荣耀国际服
-DOMAIN,www.honorofkings.com,王者荣耀国际服
-DOMAIN,api.honorofkings.com,王者荣耀国际服
-DOMAIN,login.honorofkings.com,王者荣耀国际服
-DOMAIN,graph.honorofkings.com,王者荣耀国际服
+DOMAIN-SUFFIX,d5j.com,游戏代理
+DOMAIN-SUFFIX,proximabeta.com,游戏代理
+DOMAIN-SUFFIX,levelinfinite.com,游戏代理
+DOMAIN-SUFFIX,honorofkings.com,游戏代理
 
 # 游戏服务器IP段
 IP-CIDR,154.85.0.0/16,王者荣耀国际服,no-resolve
